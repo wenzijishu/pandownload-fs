@@ -12,4 +12,3 @@ Enjoy~
 
 ![OpenWrt 食用指南](https://i.loli.net/2020/04/16/AZ5fCuDL7qEz89Y.png)
 
-此插件由大雕Lean发布
